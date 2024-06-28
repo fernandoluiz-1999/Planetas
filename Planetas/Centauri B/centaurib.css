@@ -266,9 +266,9 @@ label {
     
 }
 
-.f2 ul {
+/* .f2 ul {
     margin-bottom: 30px;
-}
+} */
 
 .midia ul {
     padding-left: 0;
@@ -293,7 +293,7 @@ label {
     font-family: 'Squids.otf';
 }
 
-.copy a{
+.copy p{
     margin-right: 15px;/*afasta os itens*/
     text-decoration: none;
     color:white;
