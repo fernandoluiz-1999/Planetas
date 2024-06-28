@@ -16,13 +16,6 @@ html, body{
   overflow-x: hidden;
 }
 
-@font-face {
-  font-family: "Squids.otf";
-  src:
-    url("game_of_squids/Game\ Of\ Squids.otf") format("truetype"),
-      url(game_of_squids/Game\ Of\ Squids.ttf) format("truetype")
-  }
-
   header {
 
       display: flex;
