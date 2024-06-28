@@ -16,13 +16,6 @@ background-image:linear-gradient(to top, #AB90DD, #6B21F8);
 overflow-x: hidden;
 }
 
-@font-face {
-font-family: "Squids.otf";
-src:
-  url("game_of_squids/Game\ Of\ Squids.otf") format("truetype"),
-    url(game_of_squids/Game\ Of\ Squids.ttf) format("truetype")
-}
-
 header {
 
     display: flex;
@@ -266,9 +259,9 @@ label {
   
 }
 
-.f2 ul {
+/* .f2 ul {
   margin-bottom: 30px;
-}
+} */
 
 .midia ul {
   padding-left: 0;
@@ -293,7 +286,7 @@ label {
   font-family: 'Squids.otf';
 }
 
-.copy a{
+.copy p{
   margin-right: 15px;/*afasta os itens*/
   text-decoration: none;
   color:white;
